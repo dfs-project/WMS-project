@@ -3,7 +3,7 @@ Implementation-Title: newweb
 Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: cbs-1
 Implementation-Vendor-Id: project.test
-Build-Jdk: 1.8.0_251
+Build-Jdk: 1.8.0_162
 Implementation-URL: http://www.example.com
 Created-By: Maven Integration for Eclipse
 
